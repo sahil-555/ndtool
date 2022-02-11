@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/dashboard",
+    "icon": "database",
+    "title": "Dashboard",
+    "bg": "#f3813f"
+  },
+  {
+    "path": "/dashboard/new-demand",
+    "icon": "list",
+    "title": "New Demand",
+    "bg": "#eba21c"
+  },
+  {
+    "path": "/dashboard/requests",
+    "icon": "upload",
+    "title": "Your Requests",
+    "bg": "#f0860e"
+  },
+  {
+    "path": "/dashboard/approver",
+    "icon": "podcast",
+    "title": "Approve Requests",
+    "bg": "#b4783f"
+  },
+  {
+    "path": "/dashboard/admin",
+    "icon": "clipboard-list",
+    "title": "Admin View",
+    "bg": "#b4783f"
+  },
+  {
+    "path": "/dashboard/position-requester",
+    "icon": "snowflake",
+    "title": "Requester View",
+    "bg": "#b4783f"
+  },
+  {
+    "path": "/dashboard/position-admin",
+    "icon": "street-view",
+    "title": "Position Admin View",
+    "bg": "#b4783f"
+  }
+]
